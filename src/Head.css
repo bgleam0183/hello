@@ -1,0 +1,29 @@
+.Head {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.logo {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo > h1 {
+    color:white;
+}
+
+.topNav {
+    text-align: right;
+    background-color: bisque;
+}
+
+.topNav > span {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
